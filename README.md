@@ -1,8 +1,8 @@
-# iw-tech-test-react
+# aviva-zero-tech-test-react-js
 
-This is the Infinity Works React Tech Test.
+This is the Aviva Zero React Tech Test in JavaScript.
 
-![Preview of Frontend](preview.png)
+![Preview of Frontend](azpreview.png)
 
 ## Requirements
 
